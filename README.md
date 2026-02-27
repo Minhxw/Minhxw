@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://www.facebook.com/hocongminh13">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height="50" width="50" style="border-radius:80px;" alt="Facebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height="50" width="50" style="border-radius:10px;" alt="Facebook" />
   </a>
 
   <a href="https://instagram.com/your-link">

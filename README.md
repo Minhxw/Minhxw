@@ -23,16 +23,19 @@
   <a href="https://linkedin.com/in/your-link">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://www.facebook.com/hocongminh13">
-    <img src="https://skillicons.dev/icons?i=facebook" /> 
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" style="border-radius:6px;" />
   </a>
+
   <a href="https://instagram.com/your-link">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+
   <a href="https://discord.gg/your-link">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-</p>
+</p>>
 
 ## 🛠️ Languages & Tools
 
@@ -44,7 +47,7 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourname">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FFDD00&font_colour=000000&outline_colour=000000" />
+  <a href="https://buymeacoffee.com/Minhxw">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Minhxw&button_colour=FFDD00&font_colour=000000&outline_colour=000000" />
   </a>
 </p>

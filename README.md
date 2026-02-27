@@ -6,7 +6,6 @@
   A Passionate Frontend Developer from VietNam 🇻🇳
 </h3>
 
----
 
 ## 🚀 About Me
 
@@ -17,7 +16,6 @@
 - 📫 Reach me at: **minhho132002@gmail.com**  
 - ⚡ Fun fact: I think we can be good friends 😄  
 
----
 
 ## 🌐 Connect with Me
 
@@ -26,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.facebook.com/hocongminh13">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
   </a>
   <a href="https://instagram.com/your-link">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -36,15 +34,12 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql,python,unity&perline=5" />
 </p>
 
----
 
 ## ☕ Support Me
 

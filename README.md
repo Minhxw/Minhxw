@@ -26,16 +26,24 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 0 10px;" />
   </a>
+
   <a href="https://www.facebook.com/hocongminh13" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" style="margin: 0 10px;" />
+    <img 
+      src="https://cdn.simpleicons.org/facebook/1877F2" 
+      height="40"
+      style="margin: 0 10px; border-radius:8px;"
+      alt="Facebook"
+    />
   </a>
+
   <a href="https://instagram.com/your-link" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin: 0 10px;" />
   </a>
+
   <a href="https://discord.gg/your-link" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" style="margin: 0 10px;" />
   </a>
 </div>
 
@@ -51,10 +59,12 @@
 
 <div align="left">
   <a href="https://me.momo.vn/pwI4Tzs3UoUeImieuWURuj" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-FF69B4?style=for-the-badge&logo=momo&logoColor=white&labelColor=FF1493" alt="Donate MoMo" height="50"/>
+    <img 
+      src="https://img.shields.io/badge/Donate%20with%20MoMo-d81b60?style=for-the-badge&logo=momo&logoColor=white"
+      alt="Donate via MoMo"
+      height="45"
+    />
   </a>
-  
-  
 </div>
 
 

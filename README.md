@@ -27,7 +27,7 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
@@ -46,7 +46,7 @@
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,figma,git,github,vscode,python,unity,mysql&perline=7" alt="Skills" />
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="left">
   <a href="https://me.momo.vn/pwI4Tzs3UoUeImieuWURuj" target="_blank">
-    <img src="https://img.shields.io/badge/Ủng+Hộ+Trà+Sữa-FF69B4?style=for-the-badge&logo=momo&logoColor=white&labelColor=FF1493" alt="Donate MoMo" height="50"/>
+    <img src="https://img.shields.io/badge/Donate-FF69B4?style=for-the-badge&logo=momo&logoColor=white&labelColor=FF1493" alt="Donate MoMo" height="50"/>
   </a>
   
   <br><br>

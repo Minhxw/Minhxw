@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A Passionate Frontend Developer from Việt Nam 🇻🇳
+  A Passionate Frontend Developer from Viet Nam
 </h3>
 
 

@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Cong Minh
+</h1>
 
-<!--
-**Minhxw/Minhxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  A Passionate Frontend Developer from VietNam 🇻🇳
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DoanThaiOffice&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧑‍💻 Software Engineer sharing my learning journey in Tech  
+- 🌱 Currently learning **Frontend, UI/UX & Software Engineering**  
+- 🎓 Studying at **Thu Dau Mot University**  
+- 💡 Always improving myself every day  
+- 📫 Reach me at: **minhho132002@gmail.com**  
+- ⚡ Fun fact: I think we can be good friends 😄  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="[https://facebook.com/your-link](https://www.facebook.com/hocongminh13)">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://instagram.com/your-link">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discord.gg/your-link">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql,python,unity&perline=5" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoanThaiOffice&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoanThaiOffice&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourname">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FFDD00&font_colour=000000&outline_colour=000000" />
+  </a>
+</p>

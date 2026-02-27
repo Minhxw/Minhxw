@@ -21,33 +21,35 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
   <a href="https://www.facebook.com/hocongminh13">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" style="border-radius:6px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height="40" width="40" style="border-radius:8px;" alt="Facebook" />
   </a>
 
   <a href="https://instagram.com/your-link">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 
   <a href="https://discord.gg/your-link">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
-</p>>
+</p>
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql,python,unity&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql,python,unity&perline=5" alt="Skills" />
 </p>
 
 
-## ☕ Support Me
+## ☕ Support Me / Donate qua MoMo
 
 <p align="center">
-  <a href="https://buymeacoffee.com/Minhxw">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Minhxw&button_colour=FFDD00&font_colour=000000&outline_colour=000000" />
+  <a href="https://me.momo.vn/pwI4Tzs3UoUeImieuWURuj" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20qua%20MoMo-FF69B4?style=for-the-badge&logoColor=white&logo=paypal&labelColor=FF69B4&color=FF69B4" alt="Donate MoMo" height="40"/>
   </a>
+  <br><br>
+  <small>Nhấn vào nút để ủng hộ mình một ly trà sữa nhé! 🧋 Cảm ơn bạn rất nhiều 💙</small>
 </p>

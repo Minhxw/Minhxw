@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.facebook.com/hocongminh13">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" /> 
   </a>
   <a href="https://instagram.com/your-link">
     <img src="https://skillicons.dev/icons?i=instagram" />

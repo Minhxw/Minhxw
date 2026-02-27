@@ -52,9 +52,9 @@
 
 <br><br>
 
-## ☕ Support Me (Donate qua MoMo)
+## ☕ Support Me 
 
-<div align="center">
+<div align="left">
   <a href="https://me.momo.vn/pwI4Tzs3UoUeImieuWURuj" target="_blank">
     <img src="https://img.shields.io/badge/Ủng+Hộ+Trà+Sữa-FF69B4?style=for-the-badge&logo=momo&logoColor=white&labelColor=FF1493" alt="Donate MoMo" height="50"/>
   </a>
@@ -65,7 +65,6 @@
     <img src="https://img.shields.io/badge/MoMo-Donate%20Now-brightgreen?style=flat-square&logo=momo&logoColor=white" alt="MoMo QR" height="28"/>
   </a>
   
-  <p><small>Nhấn để ủng hộ mình ly trà sữa nhé! 🧋 Cảm ơn bạn rất nhiều 💙</small></p>
 </div>
 
 <br>

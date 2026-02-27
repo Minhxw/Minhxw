@@ -61,10 +61,6 @@
   
   <br><br>
   
-  <a href="https://me.momo.vn/pwI4Tzs3UoUeImieuWURuj" target="_blank">
-    <img src="https://img.shields.io/badge/MoMo-Donate%20Now-brightgreen?style=flat-square&logo=momo&logoColor=white" alt="MoMo QR" height="28"/>
-  </a>
-  
 </div>
 
 <br>

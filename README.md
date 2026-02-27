@@ -55,13 +55,13 @@
 </div>
 
 
-## ☕ Support Me 
+## ☕ Support Me
 
 <div align="left">
-  <a href="https://me.momo.vn/pwI4Tzs3UoUeImieuWURuj" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Donate%20with%20MoMo-d81b60?style=for-the-badge&logo=momo&logoColor=white"
-      alt="Donate via MoMo"
+  <a href="https://buymeacoffee.com/Minhxw" target="_blank">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me A Coffee"
       height="45"
     />
   </a>

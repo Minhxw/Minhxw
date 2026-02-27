@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/your-link">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="[https://facebook.com/your-link](https://www.facebook.com/hocongminh13)">
+  <a href="https://www.facebook.com/hocongminh13">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
   <a href="https://instagram.com/your-link">

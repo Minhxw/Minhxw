@@ -25,7 +25,7 @@
 ## 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/h%E1%BB%93-c%C3%B4ng-minh-27aa163b3/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 0 10px;" />
   </a>
 

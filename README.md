@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/your-link">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -40,7 +40,7 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql,python,unity&perline=5" />
 </p>
 

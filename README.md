@@ -14,12 +14,19 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 Software Engineer — sharing my learning journey in Tech  
-- 🌱 Currently diving deep into **Frontend, UI/UX & Software Engineering**  
-- 🎓 Studying at **Thu Dau Mot University**  
-- 💡 Improving myself **every single day**  
-- 📫 Reach out: **minhho132002@gmail.com**  
-- ⚡ Fun fact: I think we can become good friends 😄
+<ul>
+  <li><b>🧑‍💻 Software Engineer</b> — sharing my learning journey in Tech</li>
+  <br/>
+  <li>🌱 Currently diving deep into <b>Frontend, UI/UX & Software Engineering</b></li>
+  <br/>
+  <li>🎓 Studying at <b>Thu Dau Mot University</b></li>
+  <br/>
+  <li>💡 Improving myself <b>every single day</b></li>
+  <br/>
+  <li>📫 Reach out: <b>minhho132002@gmail.com</b></li>
+  <br/>
+  <li>⚡ Fun fact: I think we can become good friends 😄</li>
+</ul>
 
 
 ## 🌐 Connect with Me
